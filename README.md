@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulhairawandev/static-files/main/Black%20Technology%20LinkedIn%20Banner.png?token=GHSAT0AAAAAACUTGQU6DE3YXILS25GXSDVIZUP2LHQ" alt="Banner Image">
+  <img src="https://github.com/abdulhairawandev/next-metaverse/assets/175050455/982d9c54-c66e-475c-b1fb-297200f0ff94" alt="Banner Image">
 </p>
 
-<h3>👋 <b>Hello!</b></h3>
-<hr />
+# 👋 <b>Hello!</b>
+
 <p>
   Software engineer with over 5 years of experience. I have contributed to innovative startups, large enterprise products, and award-winning agencies. Proficient in both remote and in-office roles, I consistently take ownership of projects and deliver results ahead of schedule. Skilled in web, mobile, and API development.
 </p>
 
-<h3>🛠️ Technologies & Tools</h3>
-<hr />
+# 🛠️ Technologies & Tools
+
 <p>
   <img src="https://camo.githubusercontent.com/952386bca5cdfd40274fefa10851fe8a04171e8df357dbd46e75e7d7ef7668a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c266c6f676f3d6a617661736372697074" alt="JavaScript">
   <img src="https://camo.githubusercontent.com/00eb47e38b6362bb9831bcf1d421577c718414e1d48caa67534b6b7f212ff878/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d52656163742d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c266c6f676f3d7265616374" alt="React">
