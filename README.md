@@ -5,7 +5,7 @@
 <h3>👋 <b>Hello!</b></h3>
 <hr />
 <p>
-  Software engineer with 5+ years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with both remote and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable with web, mobile, and API development.
+  Software engineer with over 5 years of experience. I have contributed to innovative startups, large enterprise products, and award-winning agencies. Proficient in both remote and in-office roles, I consistently take ownership of projects and deliver results ahead of schedule. Skilled in web, mobile, and API development.
 </p>
 
 <h3>🛠️ Technologies & Tools</h3>
